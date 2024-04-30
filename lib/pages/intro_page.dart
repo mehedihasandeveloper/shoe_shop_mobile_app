@@ -20,7 +20,7 @@ class IntroPage extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.all(25.0),
                 child: Image.asset(
-                  "lib/images/logo.png",
+                  "lib/images/logo1.png",
                   height: 248,
                 ),
               ),
@@ -29,7 +29,7 @@ class IntroPage extends StatelessWidget {
 
               // title
               const Text(
-                "Just Do It",
+                "Surprisingly Bata",
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 20,
@@ -40,7 +40,7 @@ class IntroPage extends StatelessWidget {
 
               // sub title
               const Text(
-                "Brand new sneakers and custom kicks made with premium quality",
+                "Discover a diverse selection of stylish footwear and accessories for the entire family at Bata's online store.",
                 style: TextStyle(
                   fontSize: 16,
                   color: Colors.grey,
