@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_const
+
 import 'package:flutter/material.dart';
 import 'package:project_evidence/components/bottom_nav_bar.dart';
 
@@ -71,12 +73,6 @@ class _MyWidgetState extends State<HomePage> {
                     color: Colors.white,
                   ),
                 ),
-                // Padding(
-                //   padding: const EdgeInsets.symmetric(horizontal: 25.0),
-                //   child: Divider(
-                //     color: Colors.grey[800],
-                //   ),
-                // ),
 
                 // other pages
                 const Padding(
